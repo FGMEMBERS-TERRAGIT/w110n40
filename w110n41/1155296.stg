@@ -1,0 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -109.835278 41.621389 1795.91 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -109.808333 41.618889 1503.62 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -109.991011 41.563038 1918.51 15.39
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -109.981211 41.565027 1921.61 15.18
