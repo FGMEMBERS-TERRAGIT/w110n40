@@ -1,3 +1,11 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -103.481667 43.744444 1721.62 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -103.481667 43.745278 1685.15 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -103.481111 43.745278 1714.99 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -103.35442 43.72839 1203.87 196.739
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -103.35421 43.72831 1203.95 342.553
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -103.35451 43.72906 1204.98 198.608
+OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac -103.35346 43.72857 1201.06 23.632
+# END dsf2stg
