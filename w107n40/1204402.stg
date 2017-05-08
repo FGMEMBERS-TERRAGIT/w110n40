@@ -32,5 +32,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -106.258145 40.840622 2482.27 46
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/propane-tank.ac -106.27701 40.75009 2475.67 270
+OBJECT_SHARED Models/lib/propane-tank.ac -106.27701 40.75009 2476.75 270
 # END dsf2stg
