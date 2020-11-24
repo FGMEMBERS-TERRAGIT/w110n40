@@ -5,3 +5,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -100.352917 45.539722 464.3
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.352083 45.553611 462.19 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.346111 45.535278 524.25 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.344444 45.530833 474.42 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -100.40460 45.54317 0.00 89.66
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -100.40505 45.54317 515.17 270.32
+# END dsf2stg

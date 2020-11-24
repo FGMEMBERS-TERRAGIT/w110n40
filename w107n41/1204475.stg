@@ -29,3 +29,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -106.191384 41.881328 2018.46 31
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -106.19113 41.881095 2018.62 309.06
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -106.190701 41.880729 2019.04 307.83
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -106.188874 41.878977 2021.08 308.12
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/watertank3x1.ac -106.18996 41.88712 0.00 282.31
+OBJECT_SHARED Models/lib/shed8x10.ac -106.19005 41.88709 2024.03 192.03
+OBJECT_SHARED Models/lib/propane-tank.ac -106.18627 41.88626 2024.03 355.76
+OBJECT_SHARED Models/lib/SmHangar.ac -106.18617 41.88614 2026.29 178.73
+# END dsf2stg

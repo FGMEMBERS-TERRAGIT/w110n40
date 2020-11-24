@@ -1,2 +1,10 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.084167 44.679444 437.08 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.040556 44.708333 425.86 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -100.10032 44.70263 0.00 41.85
+OBJECT_SHARED Models/lib/lamp10m.xml -100.10061 44.70286 570.65 41.85
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -100.09989 44.70266 569.94 219.07
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -100.09965 44.70234 570.61 39.73
+# END dsf2stg

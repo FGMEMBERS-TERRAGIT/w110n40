@@ -148,3 +148,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -107.771719 45.373652 970.05 0.0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -107.765203 45.373654 977.51 8.11
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -107.765154 45.373664 977.49 15.9
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -107.758542 45.374961 978.84 15.61
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -107.93766 45.31946 0.00 0
+# END dsf2stg

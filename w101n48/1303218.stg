@@ -3,3 +3,16 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -100.47 48.825 366.76 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.389583 48.865278 478.4 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.334028 48.852778 535.98 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -100.333889 48.852778 500.05 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -100.42399 48.83322 0.00 317.23
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -100.42354 48.83175 510.18 180
+OBJECT_SHARED Models/lib/MedHangar.ac -100.42353 48.83208 508.89 180
+OBJECT_SHARED Models/lib/SmHangar.ac -100.42377 48.82989 509.24 140.61
+OBJECT_SHARED Models/lib/SmHangar.ac -100.42336 48.83034 507.35 180
+OBJECT_SHARED Models/lib/SmHangar.ac -100.42343 48.83076 508.04 180
+OBJECT_SHARED Models/lib/SmHangar.ac -100.42343 48.83097 508.48 180
+OBJECT_SHARED Models/lib/SmHangar.ac -100.42343 48.83117 508.65 180
+OBJECT_SHARED Models/lib/SmHangar.ac -100.42343 48.83138 508.83 180
+# END dsf2stg
